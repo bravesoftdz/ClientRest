@@ -13,19 +13,19 @@
     <Transaction>2018/12/07 12:08:35.000.476,=C:\Users\XE10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2019/02/01 09:44:02.000.632,=C:\Users\XE10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2019/02/12 11:55:52.000.389,=C:\Users\XE10\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2019/02/12 11:56:10.000.202,C:\Users\XE10\Desktop\TESTE REST\Cliente\Unit2.pas=C:\Users\XE10\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2019/02/12 11:56:10.000.202,C:\Users\XE10\Desktop\TESTE REST\Cliente\Unit2.fmx=C:\Users\XE10\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
-    <Transaction>2019/02/12 11:56:15.000.570,C:\Users\XE10\Desktop\TESTE REST\Cliente\app.dproj=C:\Users\XE10\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/02/12 11:56:10.000.202,C:\Users\XE10\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\XE10\Desktop\TESTE REST\Cliente\Unit2.pas</Transaction>
+    <Transaction>2019/02/12 11:56:10.000.202,C:\Users\XE10\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Users\XE10\Desktop\TESTE REST\Cliente\Unit2.fmx</Transaction>
+    <Transaction>2019/02/12 11:56:15.000.570,C:\Users\XE10\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\XE10\Desktop\TESTE REST\Cliente\app.dproj</Transaction>
     <Transaction>2019/02/12 11:56:47.000.445,=C:\Users\XE10\Desktop\TESTE REST\Cliente\ClientModuleUnit1.pas</Transaction>
     <Transaction>2019/02/12 11:56:47.000.071,=C:\Users\XE10\Desktop\TESTE REST\Cliente\ClientClassesUnit1.pas</Transaction>
     <Transaction>2019/02/12 12:06:16.000.213,C:\Users\XE10\Desktop\TESTE REST\Cliente\ClientClassesUnit1.pas=</Transaction>
     <Transaction>2019/02/12 12:06:20.000.671,=C:\Users\XE10\Desktop\TESTE REST\Cliente\ClientClassesUnit2.pas</Transaction>
     <Transaction>2019/02/12 12:07:17.000.377,=C:\Users\XE10\Desktop\TESTE REST\Cliente\ClientClassesUnit2.pas</Transaction>
-    <Transaction>2019/02/13 00:15:04.126,C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientClassesUnit2.pas=</Transaction>
-    <Transaction>2019/02/13 00:15:06.593,=C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientClassesUnit3.pas</Transaction>
-    <Transaction>2019/02/13 00:15:18.935,C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientModuleUnit1.pas=</Transaction>
-    <Transaction>2019/02/13 00:16:11.715,C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientClassesUnit1.pas=C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientClassesUnit3.pas</Transaction>
-    <Transaction>2019/02/13 00:19:18.955,=C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2019/02/13 00:15:04.000.126,C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientClassesUnit2.pas=</Transaction>
+    <Transaction>2019/02/13 00:15:06.000.593,=C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientClassesUnit3.pas</Transaction>
+    <Transaction>2019/02/13 00:15:18.000.935,C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientModuleUnit1.pas=</Transaction>
+    <Transaction>2019/02/13 00:16:11.000.715,C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientClassesUnit3.pas=C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2019/02/13 00:19:18.000.955,=C:\Desenvolvimento\Sistemas Delphi DX\Testes\Cliente\ClientModuleUnit1.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<PXE10 iOSSimulator="iPhone5" iOSDevice64="_iosdevice_f20fe8a7bac6b044f4307c15a88c6cb2fcf1020e" iOSDevice32="_iosdevice_f20fe8a7bac6b044f4307c15a88c6cb2fcf1020e"/>

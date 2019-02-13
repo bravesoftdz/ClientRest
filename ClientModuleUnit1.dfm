@@ -3,7 +3,7 @@ object ClientModule1: TClientModule1
   Height = 271
   Width = 415
   object DSRestConnection1: TDSRestConnection
-    Host = 'gabrieltest.ddns.net'
+    Host = '127.0.0.1'
     Port = 9090
     LoginPrompt = False
     Left = 48

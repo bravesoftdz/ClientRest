@@ -1,0 +1,76 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 631
+  ClientWidth = 443
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 16.000000000000000000
+    Position.Y = 8.000000000000000000
+    TabOrder = 1
+    Text = 'Button1'
+    OnClick = Button1Click
+  end
+  object ListView1: TListView
+    ItemAppearanceClassName = 'TImageListItemAppearance'
+    ItemEditAppearanceClassName = 'TImageListItemDeleteAppearance'
+    HeaderAppearanceClassName = 'TListHeaderObjects'
+    FooterAppearanceClassName = 'TListHeaderObjects'
+    Position.X = 24.000000000000000000
+    Position.Y = 48.000000000000000000
+    Size.Width = 393.000000000000000000
+    Size.Height = 553.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+  end
+  object mem: TFDMemTable
+    FetchOptions.AssignedValues = [evMode]
+    FetchOptions.Mode = fmAll
+    ResourceOptions.AssignedValues = [rvSilentMode]
+    ResourceOptions.SilentMode = True
+    UpdateOptions.AssignedValues = [uvCheckRequired, uvAutoCommitUpdates]
+    UpdateOptions.CheckRequired = False
+    UpdateOptions.AutoCommitUpdates = True
+    Left = 32
+    Top = 304
+    object memnome: TStringField
+      FieldName = 'nome'
+      Size = 100
+    end
+  end
+  object BindSourceDB1: TBindSourceDB
+    DataSet = mem
+    ScopeMappings = <>
+    Left = 312
+    Top = 192
+  end
+  object FDStanStorageJSONLink1: TFDStanStorageJSONLink
+    Left = 184
+    Top = 208
+  end
+  object FDStanStorageBinLink1: TFDStanStorageBinLink
+    Left = 224
+    Top = 320
+  end
+  object BindingsList1: TBindingsList
+    Methods = <>
+    OutputConverters = <>
+    Left = 20
+    Top = 5
+    object LinkFillControlToField1: TLinkFillControlToField
+      Category = 'Quick Bindings'
+      Control = ListView1
+      Track = True
+      FillDataSource = BindSourceDB1
+      FillDisplayFieldName = 'nome'
+      AutoFill = True
+      FillExpressions = <>
+      FillHeaderExpressions = <>
+      FillBreakGroups = <>
+    end
+  end
+end

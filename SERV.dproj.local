@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/12 11:23:31.000.858,=C:\Users\XE10\Desktop\TESTE REST\SERV\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2019/02/12 11:23:31.000.698,=C:\Users\XE10\Desktop\TESTE REST\SERV\FormUnit1.pas</Transaction>
+    <Transaction>2019/02/12 11:23:33.000.496,=C:\Users\XE10\Desktop\TESTE REST\SERV\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2019/02/12 11:23:33.000.625,=C:\Users\XE10\Desktop\TESTE REST\SERV\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/02/12 11:23:37.000.803,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\base64.js</Transaction>
+    <Transaction>2019/02/12 11:23:37.000.975,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2019/02/12 11:23:37.000.829,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2019/02/12 11:23:37.000.851,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\json2.js</Transaction>
+    <Transaction>2019/02/12 11:23:37.000.926,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\base64-min.js</Transaction>
+    <Transaction>2019/02/12 11:23:37.000.958,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\json2-min.js</Transaction>
+    <Transaction>2019/02/12 11:23:37.000.904,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\serverfunctions.js</Transaction>
+    <Transaction>2019/02/12 11:23:37.000.875,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\callbackframework.js</Transaction>
+    <Transaction>2019/02/12 11:23:38.000.221,=C:\Users\XE10\Desktop\TESTE REST\SERV\css\main.css</Transaction>
+    <Transaction>2019/02/12 11:23:38.000.411,=C:\Users\XE10\Desktop\TESTE REST\SERV\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2019/02/12 11:23:38.000.356,=C:\Users\XE10\Desktop\TESTE REST\SERV\templates\reversestring.html</Transaction>
+    <Transaction>2019/02/12 11:23:38.000.060,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\connection.js</Transaction>
+    <Transaction>2019/02/12 11:23:38.000.163,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2019/02/12 11:23:38.000.011,=C:\Users\XE10\Desktop\TESTE REST\SERV\js\callbackframework-min.js</Transaction>
+    <Transaction>2019/02/12 11:23:38.000.270,=C:\Users\XE10\Desktop\TESTE REST\SERV\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2019/02/12 11:23:38.000.652,=C:\Users\XE10\Desktop\TESTE REST\SERV\images\collapse.png</Transaction>
+    <Transaction>2019/02/12 11:23:38.000.682,=C:\Users\XE10\Desktop\TESTE REST\SERV\images\expand.png</Transaction>
+    <Transaction>2019/02/12 11:25:24.000.930,C:\Users\XE10\Desktop\TESTE REST\SERV\FormUnit1.dfm=C:\Users\XE10\Desktop\TESTE REST\SERV\SERVER.dfm</Transaction>
+    <Transaction>2019/02/12 11:25:24.000.930,C:\Users\XE10\Desktop\TESTE REST\SERV\FormUnit1.pas=C:\Users\XE10\Desktop\TESTE REST\SERV\SERVER.pas</Transaction>
+  </Transactions>
+</BorlandProject>
